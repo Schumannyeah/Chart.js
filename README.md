@@ -38,3 +38,4 @@ Instructions on building and testing Chart.js can be found in [the documentation
 Chart.js is available under the [MIT license](LICENSE.md).
 
 Master Changed Test Done by Schumi
+Further update on 20211127
