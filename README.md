@@ -39,3 +39,5 @@ Chart.js is available under the [MIT license](LICENSE.md).
 
 Master Changed Test Done by Schumi
 Further update on 20211127
+
+Test follow up on 20211128
