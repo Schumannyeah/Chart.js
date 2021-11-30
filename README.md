@@ -43,3 +43,5 @@ Further update on 20211127
 Test follow up on 20211128
 
 Test sync on 20211129
+
+testing without VPN on 20211130
